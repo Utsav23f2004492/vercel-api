@@ -1,1 +1,3 @@
-Fastapi
+flask
+flask-cors
+gunicorn
